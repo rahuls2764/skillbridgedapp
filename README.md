@@ -1,6 +1,6 @@
 # 🧠 SkillBridge – Learn, Earn & Certify on Web3
 
-![SkillBridge Logo](./assets/skillbridgedapp-logo.jpg)
+![SkillBridge Logo](skillbridgedapp-logo.jpg.png)
 
 > SkillBridge is a decentralized learning platform that enables students to earn tokens, enroll in Web3-powered courses, get instant AI-powered help, and mint verifiable NFT certificates upon completion. Built on blockchain and IPFS, SkillBridge redefines ownership, trust, and motivation in online education.
 
