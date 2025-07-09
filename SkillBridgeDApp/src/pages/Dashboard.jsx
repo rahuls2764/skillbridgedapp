@@ -299,7 +299,7 @@ const Dashboard = () => {
                             <span>Continue</span>
                           </div>
                           <button
-  onClick={() => navigate(`/courses/${courseId}`)}
+  onClick={() => navigate(`/courses/${course.courseId}`)}
   className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors flex items-center gap-2"
 >
   <Play size={16} />
