@@ -298,10 +298,13 @@ const Dashboard = () => {
                             <Clock size={16} />
                             <span>Continue</span>
                           </div>
-                          <button className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors flex items-center gap-2">
-                            <Play size={16} />
-                            Resume
-                          </button>
+                          <button
+  onClick={() => navigate(`/courses/${courseId}`)}
+  className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors flex items-center gap-2"
+>
+  <Play size={16} />
+  Resume
+</button>
                         </div>
                       </div>
                     ))}
